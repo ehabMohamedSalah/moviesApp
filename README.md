@@ -1,5 +1,6 @@
 
 https://github.com/ehabMohamedSalah/newsApp/assets/159383746/ee44d92b-c2b3-49b1-b78f-6ebe75f197b2
+
 Announcing our graduation project at the Route:Movie App! 🎓🎬🚀
 
 What's special about our app? It's a comprehensive solution that seamlessly combines REST API integration for fetching movies, Firebase for secure user data storage, and an intuitive search feature for finding your favorite films. Let's dive into the key features:
